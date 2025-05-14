@@ -2,8 +2,9 @@
 
 This repository stores data and scripts for the analysis related to the paper "Agreeing and Disagreeing in Collaborative Knowledge Graph Construction: An Analysis of Wikidata" (https://arxiv.org/abs/2306.11766).
 
-
-The folders **raw_data** and **radial_trees_connections** include data for the process of radial trees. Moreover, the file **radial_trees_process.ipynb** consists of the analysis related to radial trees.
-
-The files **num_revisios_types_v2.csv** and **num_revision_usercount_editcount.csv** include the data for the section Exploratory Data Analysis. Furthermore, the script **exploratory_data_analysis.ipynb** includes the analysis of this section.
-
+* **raw_data**: This folder includes a dataset of Wikidata discussions
+* **radial_trees_connections**: This folder includes data for the process of radial trees.
+* **radial_trees_process.ipynb**: This notebook consists of the analysis related to radial trees.
+* **num_revisios_types_v2.csv** and **num_revision_usercount_editcount.csv**: These files include the data for the section Exploratory Data Analysis.
+* **exploratory_data_analysis.ipynb**: This notebook includes the analysis of the section Exploratory Data Analysis.
+* **Argumentation_annotation**: This folder includes an annotated dataset for the argumentation analysis.
